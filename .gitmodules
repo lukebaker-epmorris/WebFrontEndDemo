@@ -1,0 +1,3 @@
+[submodule "SharedDemo"]
+	path = SharedDemo
+	url = https://github.com/lukebaker-epmorris/SharedDemo
